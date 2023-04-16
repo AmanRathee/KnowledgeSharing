@@ -1,0 +1,15 @@
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\bin\Debug\net6.0\SimpleChannels.exe
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\bin\Debug\net6.0\SimpleChannels.deps.json
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\bin\Debug\net6.0\SimpleChannels.runtimeconfig.json
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\bin\Debug\net6.0\SimpleChannels.dll
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\bin\Debug\net6.0\SimpleChannels.pdb
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.csproj.AssemblyReference.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.AssemblyInfoInputs.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.AssemblyInfo.cs
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.csproj.CoreCompileInputs.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.dll
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\refint\SimpleChannels.dll
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.pdb
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\SimpleChannels.genruntimeconfig.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Channels\obj\Debug\net6.0\ref\SimpleChannels.dll

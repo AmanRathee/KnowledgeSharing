@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amanrathee\\Desktop\\Content\\KnowledgeSharing\\KnowledgeSharing\\Channels\\SimpleChannels.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amanrathee\\Desktop\\Content\\KnowledgeSharing\\KnowledgeSharing\\Channels\\SimpleChannels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amanrathee\\Desktop\\Content\\KnowledgeSharing\\KnowledgeSharing\\Channels\\SimpleChannels.csproj",
+        "projectName": "SimpleChannels",
+        "projectPath": "C:\\Users\\amanrathee\\Desktop\\Content\\KnowledgeSharing\\KnowledgeSharing\\Channels\\SimpleChannels.csproj",
+        "packagesPath": "C:\\Users\\amanrathee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amanrathee\\Desktop\\Content\\KnowledgeSharing\\KnowledgeSharing\\Channels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amanrathee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://azuretfs.willoughby.onecallnow.ds/NuGet/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.devops.onsolve.com/artifactory/api/nuget/nuget": {},
+          "https://artifactory.devops.onsolve.com/artifactory/api/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
