@@ -1,0 +1,15 @@
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\bin\Debug\net6.0\InterlockedDemo.exe
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\bin\Debug\net6.0\InterlockedDemo.deps.json
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\bin\Debug\net6.0\InterlockedDemo.runtimeconfig.json
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\bin\Debug\net6.0\InterlockedDemo.dll
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\bin\Debug\net6.0\InterlockedDemo.pdb
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.csproj.AssemblyReference.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.AssemblyInfoInputs.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.AssemblyInfo.cs
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.csproj.CoreCompileInputs.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.dll
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\refint\InterlockedDemo.dll
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.pdb
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\InterlockedDemo.genruntimeconfig.cache
+C:\Users\amanrathee\Desktop\Content\KnowledgeSharing\KnowledgeSharing\Interlocked\obj\Debug\net6.0\ref\InterlockedDemo.dll

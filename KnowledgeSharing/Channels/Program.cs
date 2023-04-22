@@ -10,7 +10,6 @@ class Program
         var consumerTask2 = Task.Run(() => producerConsumer.ConsumeAsync());
 
         // Read messages from the console and produce them to the channel
-        //In real, an API endpoint will produce the message.
         Console.WriteLine("Enter new message to process:");
         while (true)
         {
