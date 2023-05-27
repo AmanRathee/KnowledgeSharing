@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vvozCKlD8bMg9ABz23Bp2kEQq/OoVsbHeEvRwnkFCA+f2hU9TAzW1jZ0kVDkwibnK1NttA1oKoVE0IY090WNQ==",
+  "dgSpecHash": "H+hwKOGMgu/5lLodoWkYc3wnGe0uOEczUeOs6h1rh8OVACcUizbeW9r907bRmLooU4Y7YIMbs4RnoE2k4BeF/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\amanrathee\\Desktop\\Content\\KnowledgeSharing\\KnowledgeSharing\\Channels\\SimpleChannels.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://azuretfs.willoughby.onecallnow.ds/NuGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

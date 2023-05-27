@@ -28,10 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://azuretfs.willoughby.onecallnow.ds/NuGet/nuget": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://artifactory.devops.onsolve.com/artifactory/api/nuget/nuget": {},
-        "https://artifactory.devops.onsolve.com/artifactory/api/nuget/nuget/": {}
+        "https://artifactory.devops.onsolve.com/artifactory/api/nuget/nuget": {}
       },
       "frameworks": {
         "net6.0": {
@@ -64,16 +62,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://azuretfs.willoughby.onecallnow.ds/NuGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }
